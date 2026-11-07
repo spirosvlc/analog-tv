@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Analog TV</string>
+    <string name="default_analog_url">http://192.168.1.45:8155</string>
+</resources>
