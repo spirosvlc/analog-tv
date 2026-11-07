@@ -195,7 +195,7 @@ The GitHub Actions workflow runs Python tests. A passing Python test suite does 
 
 ## Acknowledgments
 
-Inspired by the feel of channel surfing and vintage television guides, including [BackWhenTV](https://backwhen.stream/). Weather forecasts are provided by [Open-Meteo](https://open-meteo.com/); geo-location and weather-warning sources are optional third-party integrations. Product and service names (Google, YouTube, Home Assistant, Pluto TV) belong to their respective owners. Analog TV is not endorsed by them.
+Inspired by the feel of channel surfing and vintage television guides. Weather forecasts are provided by [Open-Meteo](https://open-meteo.com/); geo-location and weather-warning sources are optional third-party integrations. Product and service names (Google, YouTube, Home Assistant, Pluto TV) belong to their respective owners. Analog TV is not endorsed by them.
 
 ## License
 
