@@ -1,7 +1,7 @@
 name: Analog TV
 version: "2.1.0-ha.6"
 slug: analog_tv
-description: Green-phosphor TV guide, 24/7 weather, IPTV, Google-secured Broadcast Control, and retro alerts.
+description: Your own always-on Analog television station.
 url: "https://github.com/spirosvlc/analog-tv"
 
 arch:
