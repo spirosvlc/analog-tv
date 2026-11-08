@@ -4,6 +4,8 @@ Analog TV turns local media and IPTV streams into a continuous TV lineup with
 a green phosphor program guide, a dedicated weather channel and retro alerts.
 Watch in a browser or with the **Analog TV** app for Android phones and Android TV.
 
+![Analog TV green-phosphor program guide](docs/screenshots/guide.png)
+
 ## Release files
 
 | File | Use |
@@ -51,6 +53,8 @@ on logout, replacement login or restart.
 Use **Broadcast Control** to configure local media, IPTV playlists, weather
 and alerts. For an M3U playlist import, choose the starting channel number.
 Set a weather location before using the forecast channel.
+
+![Analog Weather television channel](docs/screenshots/weather.png)
 
 YouTube remains an optional integration with its own Google authorization.
 The add-on stores its OAuth client secret and tokens in
