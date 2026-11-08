@@ -1,5 +1,0 @@
-configuration:
-  log_level:
-    name: Log level
-network:
-  8080/tcp: Analog TV web player and Broadcast Control
